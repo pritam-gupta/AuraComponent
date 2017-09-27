@@ -4,5 +4,6 @@ public with sharing class SimpleClass {
     }
     public Static void main(){
     	System.debug('Hello I am going to mad too');
+    	System.debug('I am new Debug');
     }
 }
